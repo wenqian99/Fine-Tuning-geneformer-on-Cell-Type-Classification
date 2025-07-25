@@ -1,0 +1,6 @@
+transformers==4.39.0
+scanpy
+mygene
+datasets
+tdigest
+loompy
